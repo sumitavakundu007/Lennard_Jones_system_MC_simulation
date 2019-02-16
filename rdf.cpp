@@ -1,3 +1,5 @@
+// Radial Distribution Function code written by Sumitava Kundu
+
 #include<iostream>
 #include<math.h>
 #include<cmath>
