@@ -1,0 +1,9 @@
+epsilon   1.0
+rho       0.85
+binNo     500
+kb        1.0
+temp      0.723
+delta     0.2
+sigma     1.0
+rc        2.5
+coord     initial_equilibrated_config.xyz
